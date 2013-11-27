@@ -1,0 +1,26 @@
+{
+  "name": "messages",
+  "version": "0.0.0",
+  "description": "Common REST API messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsdevel/node-messages.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "messages",
+    "common",
+    "canonical",
+    "express"
+  ],
+  "author": "Joseph Spencer",
+  "license": "Apache2.0",
+  "bugs": {
+    "url": "https://github.com/jsdevel/node-messages/issues"
+  }
+}
